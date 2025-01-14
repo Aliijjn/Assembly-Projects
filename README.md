@@ -1,10 +1,10 @@
 # FizzBuzz_ASM
 
-Welcome to my first assembly project, which is FizzBuzz. While it's usually a very easy exercise, it was extremely tedious, yet challenging in assembly.
+Welcome to my first Assembly project, which is FizzBuzz. While it's usually an easy exercise, doing it in Assembly was extremely tedious, yet challenging.
 
 ## What I've learned from this project: ✅
-- The basics of assembly
-- How C code translates into assembly
+- The basics of Assembly
+- How C code translates into Assembly
 
 ## Dependencies to run the file:
 - nasm (assembler for x86-64 Intel assembly on Linux)
