@@ -6,7 +6,7 @@ Welcome to my first Assembly project, which is FizzBuzz. While it's usually an e
 - The basics of Assembly
 - How C code translates into Assembly
 
-## Dependencies to run the file:
+## Dependencies to run the file: ⚙️
 - nasm (assembler for x86-64 Intel assembly on Linux)
 - ld (linker, turns object file into an executable)
 
