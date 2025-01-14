@@ -2,15 +2,15 @@
 
 Welcome to my first assembly project, which is FizzBuzz. While it's usually a very easy exercise, it was extremely tedious, yet challenging in assembly.
 
-## What I've learned from this project
+## What I've learned from this project: ✅
 - The basics of assembly
 - How C code translates into assembly
 
-## Dependencies to run the file
+## Dependencies to run the file:
 - nasm (assembler for x86-64 Intel assembly on Linux)
 - ld (linker, turns object file into an executable)
 
-## How to run the file (Linux only)
+## How to run the file: (Linux only)
 While in the same directory as FizzBuzz.asm run the following commands:
 
 `nasm -f elf64 -o FizzBuzz.o FizzBuzz.asm`
